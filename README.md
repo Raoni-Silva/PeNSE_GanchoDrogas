@@ -2,6 +2,8 @@
 
 O presente trabalho tem por objetivo estudar possíveis ganchos que levam crianças e adolescentes à buscarem drogas ilícitas.
 
+Para acessar o notebook [clique aqui](https://nbviewer.jupyter.org/github/Raoni-Silva/PeNSE_GanchoDrogas/blob/main/PeNSE_GanchoDrogas.ipynb).
+
 ## **BASE DE DADOS**
 
 A base de dados escolhida é a **PeNSE 2015 Amostra2** (**Pesquisa Nacional de Saúde do Escolar**) criada pelo IBGE.
