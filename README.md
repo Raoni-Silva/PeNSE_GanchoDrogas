@@ -4,7 +4,7 @@ O presente trabalho tem por objetivo estudar possíveis ganchos que levam crian�
 
 Para acessar o notebook [clique aqui](https://nbviewer.jupyter.org/github/Raoni-Silva/PeNSE_GanchoDrogas/blob/main/PeNSE_GanchoDrogas.ipynb).
 
-O trabalho, que faz parte das entregas do **Bootcamp de Data Science Aplicada da ALURA** foi um dos selecionados para ser lido durante uma live no youtube com um cara que eu admiro demais que é o Átila Iamarino e pode ser visto [neste link](https://www.youtube.com/watch?v=-3yBVjAKTjg) a partir da minutagem 8:45 do vídeo.
+O trabalho, que faz parte das entregas do **Bootcamp de Data Science Aplicada da ALURA**, foi um dos selecionados para ser lido durante uma live no youtube com um cara que eu admiro demais que é o Átila Iamarino e pode ser visto [neste link](https://www.youtube.com/watch?v=-3yBVjAKTjg) a partir da minutagem 8:45 do vídeo.
 
 ## **BASE DE DADOS**
 
